@@ -1,4 +1,4 @@
-# search_and_sort_patika_dev
+# Search_and_Sort_Patika_Dev
 Patika Dev ile Selection Sort, Merge Sort ve Binary Search Tree projesi.
 ## Selection Sort
 [22,27,16,2,18,6]
